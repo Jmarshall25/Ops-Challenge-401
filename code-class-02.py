@@ -23,22 +23,4 @@ else:
 # Wait Three Seconds
 time.sleep(3)
 
-# End 
-                     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # End
