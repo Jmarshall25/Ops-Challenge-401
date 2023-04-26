@@ -99,7 +99,7 @@ elif mode == "6":
     # Decrypt a folder
     folder_path = input("Enter the path to the folder you want to decrypt: ")
     decrypt_folder(folder_path, key)
-    print("Folder decrypted
+    print("Folder decrypted.") 
 
       
 # End
