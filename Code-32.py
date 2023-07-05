@@ -1,10 +1,8 @@
-# !/usr/bin/env python3
+#!/usr/bin/env python3
 # Script: OPS 401 Class 02 Ops Challenge Solution
-# Author: Jordan MArshall
-# Purpose: Ops Challenge:  Signature-based Malware Detection Part 2 of 3
+# Author: Jordan Marshall
+# Purpose: Ops Challenge: Signature-based Malware Detection Part 2 of 3
 # Attributes to Ademola and ChatGPT
-
-# Main 
 
 import os
 import hashlib
